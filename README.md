@@ -28,5 +28,4 @@
 ✋如果您有欢迎任何疑虑及勘误，我会及时回复。
 
 👬如果您觉得我这个人还有点意思，希望能过进一步交流，可以添加我的联系方式～
-
-![微信](./assets/global/cyber_wechat.jpg)
+<img src="assets/global/cyber_wechat.jpg" alt="联系方式" style="width: 250px;">
